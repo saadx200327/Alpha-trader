@@ -1,0 +1,7 @@
+pandas
+numpy
+yfinance
+python-dotenv
+pydantic>=2
+alpaca-trade-api>=3
+schedule
